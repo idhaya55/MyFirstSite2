@@ -1,0 +1,86 @@
+body {
+  background-color: #7579e7;
+  margin: 0;
+  font-family: 'Quattrocento', serif;
+  position: relative;
+}
+
+h1:hover {
+  color: #ebd4d4;
+}
+
+/******************class selector*****************/
+.intro-page {
+  background-color: #00587a;
+  position: relative;
+  padding: 100px;
+  text-align: center;
+}
+
+.sandwitch-lists {
+  background-color: #b83b5e;
+  width: 417.4px;
+  padding: 20px;
+  position: relative;
+  text-align: center;
+}
+
+.muffins-lists {
+  background-color: #a3d8f4;
+  width: 417.4px;
+  padding: 20px;
+  position: relative;
+  text-align: center;
+}
+
+.bottom-page {
+  background-color: #41aea9;
+  height: 253.438px;
+  padding: 100px;
+  text-align: center;
+}
+
+.birthday-cake {
+  position: absolute;
+  right: 20px;
+}
+
+.table-2 {
+  border: 20px solid #fcdab7;
+
+}
+.doughnut {
+  position: absolute;
+  left: 22px;
+  bottom: 10px;
+}
+.cupcake {
+  position: absolute;
+  left: 25px;
+  bottom: 10px;
+}
+.shortcake {
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+}
+.feedback-form {
+  background-color: #ff8e6e;
+  padding: 30px;
+}
+/**********************ID Selector**************************/
+#about {
+  position: absolute;
+  right: 250px;
+  top: 10px;
+}
+#contact {
+  position: absolute;
+  right: 150px;
+  top: 10px;
+}
+#feedback {
+  position: absolute;
+  right: 30px;
+  top: 10px;
+}
